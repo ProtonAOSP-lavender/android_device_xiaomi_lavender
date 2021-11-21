@@ -26,6 +26,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR_PRODUCT_NAME := lavender
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="raven-user 12 SD1A.210817.015.A4 7697517 release-keys"
+    PRIVATE_BUILD_DESC="raven-user 12 SD1A.210817.019.C2 7738411 release-keys"
 
-BUILD_FINGERPRINT := google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys
+BUILD_FINGERPRINT := "google/raven/raven:12/SD1A.210817.019.C2/7738411:user/release-keys"
